@@ -5,5 +5,8 @@ Ejemplo que muestra el uso de Serializers Django REST Framework y una API implem
     pip install django
     pip install djangorestframework
 
+# Run migrations
+    python manage.py migrate
+
 # Run
     python manage.py runserver
